@@ -17,7 +17,7 @@ root.render(
                 <Route path='usestate' element={<UseStateDemo />}></Route>
                 <Route path='useeffect' element={<UseEffectDemo />}></Route>
                 <Route path='usecallback' element={<UseCallBackDemo />}></Route>
-            </Route>
+            </Route>    
         </Routes>
 
     </BrowserRouter>
